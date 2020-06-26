@@ -1,5 +1,5 @@
 describe('empty', () => {
   it('empty', () => {
-    expect(1).toEqual(1);
+    expect(1).toEqual(0);
   });
 });
